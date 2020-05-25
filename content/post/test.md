@@ -2,7 +2,6 @@
 author = "@iamenzoenzo"
 date = 2020-05-25T14:44:37Z
 description = "This is a test post."
-draft = true
 feature_image = ""
 tags = []
 title = "Test"
