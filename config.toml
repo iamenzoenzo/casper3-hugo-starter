@@ -27,7 +27,7 @@ weight = 40
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"
 github = "https://github.com/iamenzoenzo"
-logo = "/images/turtlelogo.svg"
+logo = "/images/turtlelogo.png"
 mainSections = ["post"]
 twitter = "https://twitter.com/iamenzoenzo"
 [privacy.instagram]
